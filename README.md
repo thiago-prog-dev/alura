@@ -1,4 +1,4 @@
-# alura
+# Alura-plus
 *Sou o Thiago da Silva*
 
 -Estudante iniciante em programação
