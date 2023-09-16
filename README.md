@@ -7,9 +7,9 @@
 
 -Os códigos são desenvolvidos durante o curso
 
--As linguagens estudas são **HTML** e **CSS**
+-As linguagens utilizadas são: `HTML e CSS`
 
 -Todas as imagens e códigos estão disponíveis na plataforma utilizada
 
-### Entre em contato pelo e-mail institucional
+### Entre em contato pelo e-mail institucional📫
 thibeca1998@gmail.com
